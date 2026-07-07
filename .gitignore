@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+data/uploads/*
+data/outputs/*
+!data/uploads/.gitkeep
+!data/outputs/.gitkeep
+.DS_Store
+.env
+.cursor/
+.env.example
